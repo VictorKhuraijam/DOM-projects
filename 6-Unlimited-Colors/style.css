@@ -1,0 +1,28 @@
+body{
+  background-color: #212121;
+   color: #fff;
+
+  }
+
+ .container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+ }
+
+ button{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
+  color: rgba(226, 17, 97, 0.979);
+  padding: 8px 20px;
+  margin-top: 50px;
+  border-radius: 18px;
+  cursor: pointer;
+  border: none;
+ }
+
+ h1{
+  text-align: center;
+ }
